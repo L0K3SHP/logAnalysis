@@ -26,4 +26,7 @@
   >
   > Kern Log: */var/log/kern.log* <br>
   > Corn Log: */var/log/cron* <br>
+  > 
+  > Apache2 Log: */var/log/apache2* <br>
+  > Corn Log: */var/log/mysql* <br>
   
