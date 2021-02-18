@@ -24,9 +24,11 @@
   > Debian based: */var/log/auth.log* <br>
   > RedHat based: */var/log/secure*
   >
-  > Kern Log: */var/log/kern.log* <br>
-  > Corn Log: */var/log/cron* <br>
+  > Kern Log: */var/log/kern.log* 
   > 
-  > Apache2 Log: */var/log/apache2* <br>
-  > Corn Log: */var/log/mysql* <br>
+  > Corn Log: */var/log/cron* 
+  > 
+  > Apache2 Log: */var/log/apache2* 
+  > 
+  > MySQL Log: */var/log/mysql* 
   
