@@ -14,7 +14,16 @@
 # Linux
 
   ## Log Location */var/log*
-  > System Log   
-  > Debian based: */var/log/syslog*
+  > **System Log**   
+  > 
+  > Debian based: */var/log/syslog* <br>
   > RedHat based: */var/log/messages*
+  >
+  > **Security Log**
+  > 
+  > Debian based: */var/log/auth.log* <br>
+  > RedHat based: */var/log/secure*
+  >
+  > Kern Log: */var/log/kern.log* <br>
+  > Corn Log: */var/log/cron* <br>
   
