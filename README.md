@@ -30,5 +30,13 @@
   > 
   > Apache2 Log: */var/log/apache2* 
   > 
-  > MySQL Log: */var/log/mysql* 
+  > MySQL Log: */var/log/mysql*  or */var/log/mysqld*
+  > 
+  > Mail Log: */var/log/maillog* 
+  > 
+  > Qmail Log: */var/log/qmail/* 
+  > 
+  > Boot Log: */var/log/boot.log* 
+  > 
+  > HTTP Log: */var/log/httpd/* 
   
