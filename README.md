@@ -1,5 +1,5 @@
 # logAnalysis
-
+***
 # Windows
 
   ## Windows Log Location *C:\Windows\System32\winevt\Logs*
@@ -9,3 +9,5 @@
 
   ## Register Edit
   > *Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog*
+***
+# Linux
