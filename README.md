@@ -2,7 +2,7 @@
 ***
 # Windows
 
-  ## Log Location *C:\Windows\System32\winevt\Logs*
+  ## Log Location *[C:\Windows\System32\winevt\Logs]*
   > Security Log File/Location: *C:\Windows\System32\winevt\Logs\Security.evtx*
   > 
   > System Log File/Location: *C:\Windows\System32\winevt\Logs\System.evtx*
@@ -13,7 +13,7 @@
 ***
 # Linux
 
-  ## Log Location */var/log*
+  ## Log Location *[/var/log]*
   ### **System Log**   
   > 
   > Debian based: */var/log/syslog* <br>
