@@ -24,19 +24,27 @@
   > Debian based: */var/log/auth.log* <br>
   > RedHat based: */var/log/secure*
   >
-  ### Kern Log: */var/log/kern.log* 
+  ### Kern Log: 
+  > */var/log/kern.log* 
   > 
-  ### Corn Log: */var/log/cron* 
+  ### Corn Log: 
+  > */var/log/cron* 
   > 
-  ### Apache2 Log: */var/log/apache2* 
+  ### Apache2 Log:
+  > */var/log/apache2* 
   > 
-  ### MySQL Log: */var/log/mysql*  or */var/log/mysqld*
+  ### MySQL Log:
+  > */var/log/mysql*  or */var/log/mysqld*
   > 
-  ### Mail Log: */var/log/maillog* 
+  ### Mail Log: 
+  >*/var/log/maillog* 
   > 
-  ### Qmail Log: */var/log/qmail/* 
+  ### Qmail Log:
+  > */var/log/qmail/* 
   > 
-  ### Boot Log: */var/log/boot.log* 
+  ### Boot Log:
+  > */var/log/boot.log* 
   > 
-  ### HTTP Log: */var/log/httpd/* 
+  ### HTTP Log: 
+  > */var/log/httpd/* 
   
