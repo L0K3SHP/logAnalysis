@@ -60,7 +60,16 @@ Prerequisite:
 
  Direction To use Code ***Linux***:
  <ol>
- <li>chmod +x portscanner.py</li>
- <li>.\portscanner.py</li>
+ <li>Change the log file path wanted to view</li>
+ <li>chmod +x lanalysis.py</li>
+ <li>.\lanalysis.py</li>
 </ol> 
-<div><style = ></div>
+
+# OR
+<ol>
+ <li>Change the log file path wanted to view</li>
+ <li>sudo su</li>
+ <li>python3 lanalysis.py</li>
+</ol> 
+
+
