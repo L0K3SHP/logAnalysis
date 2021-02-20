@@ -66,6 +66,7 @@ Prerequisite:
 </ol> 
 
 # OR
+<div style="color:blue;"> OR </div>
 <ol>
  <li>Change the log file path wanted to view</li>
  <li>sudo su</li>
