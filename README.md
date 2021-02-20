@@ -64,9 +64,7 @@ Prerequisite:
  <li>chmod +x lanalysis.py</li>
  <li>.\lanalysis.py</li>
 </ol> 
-
 # OR
-<div style="color:blue;"> OR </div>
 <ol>
  <li>Change the log file path wanted to view</li>
  <li>sudo su</li>
