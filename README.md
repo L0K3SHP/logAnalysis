@@ -48,3 +48,19 @@
   ### HTTP Log: 
   > */var/log/httpd/* 
   
+  # THIS SCRIPT IS STILL IN DEVELOPING STATE
+
+## Log Analyser Using Python For _**** Linux ****_
+
+Prerequisite:
+<ol>
+<li>Python 3.x (x: Version)</li>
+<li>Any IDE</li>
+</ol>
+
+ Direction To use Code ***Linux***:
+ <ol>
+ <li>chmod +x portscanner.py</li>
+ <li>.\portscanner.py</li>
+</ol> 
+<div><style = ></div>
