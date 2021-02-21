@@ -62,6 +62,10 @@ Prerequisite:
  <li>python3 lanalysis.py</li>
 </ol> 
 
+# Reference
+  [Log Analysis](https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/soc-guide)
+  [Linux_Logs1](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
+
 # Error Reference
  [PermissionError: [errno 13] permission denied](https://careerkarma.com/blog/python-permissionerror-errno-13-permission-denied/)
 
