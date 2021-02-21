@@ -64,6 +64,7 @@ Prerequisite:
 
 # Reference
   [Log Analysis](https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/soc-guide)
+  >
   [Linux_Logs1](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
 
 # Error Reference
