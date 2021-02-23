@@ -35,4 +35,8 @@
    | `Mail Log`   | */var/log/maillog*    |  
    | `Qmail Log` | */var/log/qmail/*    | 
    | `Boot Log`  | */var/log/boot.log*   |  
-   | `HTTP Log` | */var/log/httpd/*   
+   | `HTTP Log` | */var/log/httpd/*   |
+   
+   # Reference
+  [Log Analysis](https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/soc-guide) <br>
+  [Linux_Logs](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
