@@ -36,7 +36,7 @@
    | `Qmail Log` | */var/log/qmail/*    | 
    | `Boot Log`  | */var/log/boot.log*   |  
    | `HTTP Log` | */var/log/httpd/*   |
-   
+
    <br>
    
    # Reference
