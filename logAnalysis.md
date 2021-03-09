@@ -37,6 +37,8 @@
    | `Boot Log`  | */var/log/boot.log*   |  
    | `HTTP Log` | */var/log/httpd/*   |
    
+   <br>
+   
    # Reference
   [Log Analysis](https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/soc-guide) <br>
   [Linux_Logs](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
