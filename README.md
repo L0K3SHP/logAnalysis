@@ -31,7 +31,7 @@ Prerequisite:
   <ol>
  
  <li>Install module pywin32 [pip install pywin32]</li>
- <li>Change the log file path wanted to view</li>
+ <li>Change the log name wanted to view</li>
  <li>Run the wanalysis.py file as an administrator</li>
 </ol> 
 
